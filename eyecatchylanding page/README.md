@@ -2,13 +2,10 @@
 # Responsive Website Development: React and Bootstrap 
 
 
-## Live Demo
-Check out the live version of this website in production [Live Demo](https://pameschurrer.es/positivus/)
+
 
 
 ## Design
-This amazing design in figma was created by By Olga.  [Figma](https://www.figma.com/community/file/1230604708032389430/Positivus-Landing-Page-Design)
+This amazing design in figma was created by By saif.  
+[Figma](https://www.figma.com/file/3rtk4Py0FcrPQXOyRpaKm1/positivus-by-saif?type=design&node-id=423%3A1034&mode=design&t=ow3xSliehVTUaClq-1)
 
-
-
-![sitio](https://pameschurrer.es/positivus/web.png)
